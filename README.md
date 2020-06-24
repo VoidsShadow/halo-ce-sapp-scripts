@@ -8,6 +8,7 @@ Addresses and offsets
 ---------------------
  - https://pastebin.com/Sm2Pf7V5
  - https://pastebin.com/z4eqrjVN
+ - https://pastebin.com/QUWTMuKg
 
 
 Links
